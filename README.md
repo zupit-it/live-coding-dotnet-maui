@@ -28,7 +28,7 @@ Exapmple: `point-of-sale-9\src\global.json`
 ```
 
 
-# Check workload list - Restore if reqwuired 
+# Check workload list - Restore if required 
 
 In the selected solution folder: 
 
